@@ -21,7 +21,7 @@
 &nbsp;
 <br>
 
-<h2 align="center">👉 Social Media 👈</h2>
+<h2 align="center">🔆 Social Media 🔆</h2>
 <br>
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=61561635601216" target="blank">
