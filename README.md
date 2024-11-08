@@ -5,7 +5,7 @@
 - 💝 My hobbies are being with my family, playing soccer, going to the gym, and studying.
 - 💞 My motto in life is: "Be nice even if you are not treated nicely."
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🥇 Technologies and Tools 🥇</h2>
 <br>
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
