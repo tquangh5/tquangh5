@@ -30,9 +30,9 @@
   <a href="https://www.youtube.com/@truongquanghuy7711" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="truongquanghuy-youtube" />
   </a>
-  <a href="https://www.instagram.com/sawsn1203/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="sawsn1203-instagram" style="width: 200px; height: 150px; border-radius: 0;" />
-</a>
+  <a href="https://www.instagram.com/sawsn1203/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="sawsn1203-instagram" />
+  </a>
 
 
 
