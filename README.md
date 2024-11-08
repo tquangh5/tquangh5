@@ -33,4 +33,8 @@
   <a href="https://www.instagram.com/sawsn1203/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="sawsn1203-instagram" />
   </a>
+  <a href="https://www.instagram.com/sawsn1203/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="sawsn1203-instagram" style="border-radius: 0;" />
+</a>
+
 </div>
