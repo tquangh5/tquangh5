@@ -19,7 +19,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/OpenCV-282C34?logo=opencv&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=5C3EE8" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
 
 
