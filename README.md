@@ -107,7 +107,48 @@
          height="25" 
          style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
   </span>
+  <span>
+    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-282C34?logo=amazon-dynamodb&logoColor=4053D6" 
+         alt="Amazon DynamoDB logo" 
+         title="Amazon DynamoDB" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" 
+         alt="MySQL logo" 
+         title="MySQL" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=DC382D" 
+         alt="Redis logo" 
+         title="Redis" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Couchbase-282C34?logo=couchbase&logoColor=EA2328" 
+         alt="Couchbase logo" 
+         title="Couchbase" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Realm-282C34?logo=realm&logoColor=39477F" 
+         alt="Realm logo" 
+         title="Realm" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Cassandra-282C34?logo=apache-cassandra&logoColor=1287B1" 
+         alt="Cassandra logo" 
+         title="Cassandra" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
 </div>
 
 
-</div>
