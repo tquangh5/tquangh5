@@ -71,7 +71,7 @@
          style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
   </span>
   <span>
-    <img src="https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=5C3EE8" 
+    <img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=5C3EE8" 
          alt="C++ logo" 
          title="C++" 
          height="25" 
