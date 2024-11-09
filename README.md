@@ -30,6 +30,27 @@
          height="25" 
          style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
   </span>
+   <span>
+    <img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" 
+         alt="R logo" 
+         title="R" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" 
+         alt="Ruby logo" 
+         title="Ruby" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Lisp-282C34?logo=lisp&logoColor=5B8C7D" 
+         alt="Lisp logo" 
+         title="Lisp" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
   <span>
     <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" 
          alt="git logo" 
