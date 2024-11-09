@@ -6,7 +6,7 @@
 - 💝 My hobbies are being with my family, playing soccer, going to the gym, and studying.
 - 💞 My motto in life is: "Be nice even if you are not treated nicely.".
 
-<h2 align="center">👨🏻‍💻  Technologies and Tools 👨🏻‍💻 </h2>
+<h2 align="center">👨🏻‍💻 Languages and Tools 👨🏻‍💻 </h2>
 <br>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
    <span>
