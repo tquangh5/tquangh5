@@ -8,7 +8,6 @@
 <h2 align="center">🥇 Technologies and Tools 🥇</h2>
 <br>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-   
    <span>
     <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" 
          alt="C logo" 
