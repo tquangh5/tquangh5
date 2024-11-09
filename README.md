@@ -3,7 +3,7 @@
 - 🚀 I am currently studying Information Technology at the University of Science - Ho Chi Minh City National University.
 - 💡 I am studying and learning deeply about Artificial Intelligence and Data Science.
 - 💝 My hobbies are being with my family, playing soccer, going to the gym, and studying.
-- 💞 My motto in life is: "Be nice even if you are not treated nicely."
+- 💞 My motto in life is: "Be nice even if you are not treated nicely.".
 
 <h2 align="center">🥇 Technologies and Tools 🥇</h2>
 <br>
