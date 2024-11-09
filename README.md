@@ -21,13 +21,5 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=5C3EE8" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span>
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?logo=c%2B%2B&logoColor=5C3EE8" 
-       alt="C++ logo" 
-       title="C++" 
-       height="25" 
-       style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
-</span>
-
 <br>
 </div>
