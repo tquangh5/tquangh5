@@ -77,6 +77,56 @@
          height="25" 
          style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
   </span>
+  <span>
+    <img src="https://img.shields.io/badge/Keras-282C34?logo=keras&logoColor=D00000" 
+         alt="Keras logo" 
+         title="Keras" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/NumPy-282C34?logo=numpy&logoColor=013243" 
+         alt="NumPy logo" 
+         title="NumPy" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" 
+         alt="Pandas logo" 
+         title="Pandas" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Plotly-282C34?logo=plotly&logoColor=3F4F75" 
+         alt="Plotly logo" 
+         title="Plotly" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Scikit--Learn-282C34?logo=scikit-learn&logoColor=F7931E" 
+         alt="Scikit-Learn logo" 
+         title="Scikit-Learn" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/SciPy-282C34?logo=scipy&logoColor=8CAAE6" 
+         alt="SciPy logo" 
+         title="SciPy" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow&logoColor=FF6F00" 
+         alt="TensorFlow logo" 
+         title="TensorFlow" 
+         height="25" 
+         style="background-color: #0D47A1; padding: 5px; border-radius: 5px;" />
+  </span>
 </div>
+
 
 </div>
