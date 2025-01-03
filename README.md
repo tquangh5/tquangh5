@@ -5,7 +5,7 @@
 - 🤖 I am studying and learning deeply about Artificial Intelligence and Data Science.
 - 💝 My hobbies are being with my family, playing soccer, going to the gym, and studying.
 - 💞 My motto in life is: "Be nice even if you are not treated nicely.".
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h2 align="center">👨🏻‍💻 Languages and Tools 👨🏻‍💻 </h2>
 <br>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
