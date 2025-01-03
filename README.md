@@ -1,11 +1,11 @@
 # TRUONG QUANG HUY
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 💼 About me:
 - 🚀 I am currently studying Information Technology at the University of Science - Ho Chi Minh City National University.
 - 🤖 I am studying and learning deeply about Artificial Intelligence and Data Science.
 - 💝 My hobbies are being with my family, playing soccer, going to the gym, and studying.
 - 💞 My motto in life is: "Be nice even if you are not treated nicely.".
-<img align="right" width=200px height=200px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFiZ2JibnFpOXRnMTR5a3JuM3Y5Z3Nmejh1c2ZzcWExbTIwN2xsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif" />
+
 <h2 align="center">👨🏻‍💻 Languages and Tools 👨🏻‍💻 </h2>
 <br>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
