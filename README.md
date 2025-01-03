@@ -1,6 +1,6 @@
 # TRUONG QUANG HUY
+<img align="right" width=200px height=200px alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV1a2FjbzB0OGN2d3BzMXl2amtvY2ZtMjF3dmU3MTZ3YzcxYW9iZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0hv8d4HrDVI6m7w7pF/giphy.gif" />
 
-<iframe src="https://giphy.com/embed/0hv8d4HrDVI6m7w7pF" width="480" height="427" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-trippy-3d-0hv8d4HrDVI6m7w7pF">via GIPHY</a></p>
 💼 About me:
 - 🚀 I am currently studying Information Technology at the University of Science - Ho Chi Minh City National University.
 - 🤖 I am studying and learning deeply about Artificial Intelligence and Data Science.
